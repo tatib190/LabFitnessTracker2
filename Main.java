@@ -69,12 +69,12 @@ public class Main {
         } else {
 
             System.out.println("Invalid employee type.");
-            input.close();
+        
             return;
         }
 
         System.out.println("Monthly Salary: $" + employee.calculateSalary());
 
-        input.close();
+       
     }
 }
