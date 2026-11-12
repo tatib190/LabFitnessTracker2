@@ -5,3 +5,6 @@ This program calculates the salary of either a full-time or part-time employee b
 2. Enter if you're full-time or part-time then enter your hours and hourly rates.
 3. View the calculated monthly salary.
    
+## Code Review
+- **Reviewed by:** Nicholas Cheng
+- **Status:** Checked code. 
